@@ -1,0 +1,6 @@
+C:\VisualStudio\MM_Enquete\bin\Debug\MM_Enquete.exe.config
+C:\VisualStudio\MM_Enquete\bin\Debug\MM_Enquete.exe
+C:\VisualStudio\MM_Enquete\bin\Debug\MM_Enquete.pdb
+C:\VisualStudio\MM_Enquete\obj\Debug\MM_Enquete.csprojResolveAssemblyReference.cache
+C:\VisualStudio\MM_Enquete\obj\Debug\MM_Enquete.exe
+C:\VisualStudio\MM_Enquete\obj\Debug\MM_Enquete.pdb
